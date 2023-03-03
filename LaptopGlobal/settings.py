@@ -89,7 +89,7 @@ DATABASES = {
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.postgresql',
-#         'NAME': 'AvehizNew',
+#         'NAME': 'LaptopGlobal',
 #         'USER': 'postgres',
 #         'PASSWORD': '123',
 #         'HOST': 'localhost',
@@ -147,7 +147,7 @@ MEDIA_URL = '/media/'
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_PORT = '587'
 EMAIL_HOST_USER = 'milindupasan@gmail.com'
-EMAIL_HOST_PASSWORD = 'RedmiNote10'
+EMAIL_HOST_PASSWORD = 'Password Removed'
 EMAIL_USE_TLS = True
 #EMAIL_USE_SSL = false
 
